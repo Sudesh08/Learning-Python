@@ -18,22 +18,9 @@ else:
 
 #
 
+#
 
-#
-# 5. Prime Number Checker
-# Write a function that checks whether a number is prime or not using a loop and condition.
-#
-# 6. Count Vowels in a String
-# Create a function that takes a string and counts the number of vowels in it using a loop and condition.
-#
-# 7. Sum of Even Numbers in a Range
-# Write a function that takes a start and end number and returns the sum of all even numbers in that range.
-#
-# 8. Number Guessing Game
-# Create a function that generates a random number and lets the user guess it in a loop until correct, giving hints (higher/lower).
-#
-# 9. Palindrome Checker
-# Write a function that checks whether a string is a palindrome (same forwards and backwards) using loops and conditions.
+
 #
 # 10. Fibonacci Series Generator
 # Create a function that prints the first n numbers of the Fibonacci series using a loop.
