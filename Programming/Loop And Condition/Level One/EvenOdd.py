@@ -21,21 +21,14 @@ else:
 #
 
 
-#
-# 10. Fibonacci Series Generator
-# Create a function that prints the first n numbers of the Fibonacci series using a loop.
 
-# 11. Check Leap Year
-# Write a function that checks whether a given year is a leap year or not using conditions.
+
+
+
 #
-# 12. Print All Prime Numbers in a Range
-# Create a function that takes two numbers and prints all prime numbers between them using nested loops.
+
 #
-# 13. Count Digits in a Number
-# Write a function that takes an integer and counts the number of digits using a loop.
-#
-# 14. Armstrong Number Checker
-# Create a function that checks if a number is an Armstrong number (e.g., 153 = 1³ + 5³ + 3³).
+
 #
 # 15. Reverse a Number
 # Write a function to reverse the digits of a number using a loop.
