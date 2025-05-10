@@ -14,45 +14,8 @@ if checkOddOrEven(num):
 else:
     print("The given number is Odd Number")
 
-#
-
-#
-
-#
 
 
-
-
-
-
-#
-
-#
-
-#
-# 15. Reverse a Number
-# Write a function to reverse the digits of a number using a loop.
-#
-# 16. Check Perfect Number
-# Write a function to check if a number is perfect (sum of its divisors excluding itself equals the number).
-#
-# 17. Print Triangle Pattern
-# Create a function that takes a number n and prints a right-angled triangle pattern of stars (*) using nested loops.
-#
-# Example:
-#
-# markdown
-# Copy
-# Edit
-# *
-# **
-# ***
-# ****
-# 18. Calculate Power (Exponentiation)
-# Write a function that takes a base and exponent and calculates the result using a loop (not the ** operator).
-#
-# 19. Sum of Digits
-# Create a function that calculates the sum of digits of an integer.
 #
 # 20. Find GCD of Two Numbers
 # Write a function that finds the greatest common divisor (GCD) of two numbers using a loop and conditions.
