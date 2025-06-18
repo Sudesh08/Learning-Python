@@ -32,13 +32,6 @@ calculator1=Calculator("Sudesh",[10,18,90])
 calculator1.calculateAverage()
 
 
-# 🔸 3. Book Inventory System
-# Question:
-# Create a class Book with attributes: title, author, copies.
-# Add a method sell_copy() that reduces copies by 1 and a method to display book details.
-#
-# If copies become 0, print "Out of stock".
-#
 # 🔸 4. Temperature Converter
 # Question:
 # Create a class Temperature with a method:

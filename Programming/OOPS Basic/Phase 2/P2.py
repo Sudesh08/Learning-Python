@@ -16,4 +16,21 @@ class BankAccount:
         self.account_holder=account_holder
         self.balance=balance
 
-    def deposite(self):
+    def deposit(self,amount):
+        self.balance=self.balance+amount
+        # return self.balance
+
+    def withdraw(self,amount):
+        if self.balance>amount:
+            self.balance=self.balance-amount
+            # return self.balance
+        else:
+            print("You don't have enough money!")
+    def display_balance(self):
+        print(f"Your current balance is : {self.balance}")
+
+
+bankaccount=BankAccount("Sudesh",20000)
+# bankaccount.deposit(10000)
+bankaccount.withdraw(200000)
+bankaccount.display_balance()
