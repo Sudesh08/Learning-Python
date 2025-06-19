@@ -30,19 +30,3 @@ class Calculator:
 calculator1=Calculator("Sudesh",[10,18,90])
 # calculator1.calculateTotalMarks()
 calculator1.calculateAverage()
-
-
-# 🔸 4. Temperature Converter
-# Question:
-# Create a class Temperature with a method:
-#
-# to_celsius(fahrenheit)
-#
-# to_fahrenheit(celsius)
-#
-# Use self correctly and demonstrate conversion for both.
-#
-# 🔸 5. Employee Salary with Bonus
-# Question:
-# Create a class Employee with attributes: name, base_salary.
-# Add a method calculate_total_salary(bonus_percentage) that returns total salary after bonus.
